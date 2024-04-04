@@ -61,10 +61,11 @@ This project revolves around a Python-based bot engineered to fulfill a spectrum
 Here is where I showcase the technologies utilized to craft the bot:
 
 *   <a href="https://www.python.org/">
-    <img src="img/python.png" alt="Logo" width="150" height="100">
+    <img src="img/python.png" alt="Logo" width="150" height="50">
   </a>
+  
 * <a href="https://ffmpeg.org/">
-    <img src="img/ffmpeg.jpg" alt="Logo" width="150" height="100">
+    <img src="img/ffmpeg.jpg" alt="Logo" width="150" height="50">
   </a>
 
 
