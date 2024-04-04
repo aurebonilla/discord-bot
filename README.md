@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/aurebonilla/discord-bot">
-    <img src="img/bonibot.png" alt="Logo" width="80" height="80">
+    <img src="img/bonibot.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Bonilla Bot</h3>
@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
+This project revolves around a Python-based bot engineered to fulfill a spectrum of functions, ranging from playing music to executing complex calculations. With its versatile architecture and capabilities, this bot aims to seamlessly integrate into various user experiences, providing efficient solutions to diverse tasks. Stay tuned as we delve deeper into its development journey and explore the multitude of functionalities it brings to the table.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,8 +60,12 @@
 
 Here is where I showcase the technologies utilized to craft the bot:
 
-* [![ffmpeg][ffmpeg]][ffmpeg-url]
-* [![python][python]][python-url]
+*   <a href="https://www.python.org/">
+    <img src="img/python.png" alt="Logo" width="150" height="100">
+  </a>
+* <a href="https://ffmpeg.org/">
+    <img src="img/ffmpeg.jpg" alt="Logo" width="150" height="100">
+  </a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
